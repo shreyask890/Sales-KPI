@@ -1,4 +1,4 @@
-#Superstore Global Sales Performance Dashboard
+# Superstore Global Sales Performance Dashboard
 This dashboard provides a comprehensive overview of the global sales performance for a superstore. The visualizations include key metrics such as orders, profit, and sales, along with a breakdown of performance by region, category, and segment.
 
 
