@@ -26,3 +26,4 @@ Top and Flop States: A comparison of top and bottom states in terms of sales, pr
 Categories: A bar chart showing the sales distribution across different product categories such as Office Supplies, Technology, and Furniture.
 
 Segments: A bar chart breaking down sales by customer segments, including Consumer, Corporate, and Home Office.
+![Superstore](https://github.com/user-attachments/assets/7248b112-bb72-4f90-b6cb-44ef4c111da1)
